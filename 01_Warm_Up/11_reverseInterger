@@ -1,0 +1,24 @@
+
+// LeetCode problem no: 7
+
+function reverseInteger(x) {
+    let xCopy = x;
+    x = Math.abs(x); // negative number converts into positive number    
+    let rev = 0;
+
+    while(x > 0) {
+        let rem = x % 10;
+        rev = (rev*10) + rem;
+        x = Math.floor(x/10);
+    }
+
+    let range = Math.pow(2,31);
+    if( rev < -range || rev > range-1) return 0; // this condition is for leetCode
+
+    return xCopy < 0 ? -rev : rev;
+}
+
+
+let n = 123;
+let ans = reverseInteger(n);
+console.log(ans);
