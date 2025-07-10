@@ -9,7 +9,8 @@ function moveZeroes(arr) {
 
   for (let i = 0; i < arr.length; i++) {
     if (arr[i] != 0) {
-      if (arr[i] !== arr[x]) { // i == x then swap will not happen
+      if (arr[i] !== arr[x]) {
+        // i == x then swap will not happen
         let temp = arr[i];
         arr[i] = arr[x];
         arr[x] = temp;
@@ -38,8 +39,8 @@ function moveZeroesAkshaySolution(arr) {
   return arr;
 }
 
-const arr = [1, 0, 2, 0, 0, 0, 3, 4, 5, 0, 0];
-const ans = moveZeroes(arr);
+const arr = [0, 1, 0, 4, 3, 0];
+const ans = moveZeroesAkshaySolution(arr);
 console.log(ans);
 
 // Time complexity: O(n), Space complexity: O(1)
