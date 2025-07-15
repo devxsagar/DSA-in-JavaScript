@@ -18,4 +18,4 @@ function insertionSort(a) {
 
 const arr = [7,4,3,5,1,2];
 const ans = insertionSort(arr);
-console.log(ans);
+console.log(ans)
