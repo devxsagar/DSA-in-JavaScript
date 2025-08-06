@@ -63,6 +63,7 @@ It follows a structured approach for beginners to advanced topics.
 
 <tr>
 <td><b>08_StackandQueues</b></td>
-<td>225. Implement Stack using Queues <br> 232. Implement Queue using Stacks <br> 20. Valid Parentheses </td>
+<td>225. Implement Stack using Queues <br> 232. Implement Queue using Stacks <br> 20. Valid Parentheses <br> 155. Min Stack <br> 1021. Remove Outermost Parentheses
+ </td>
 </tr>
 </table>
