@@ -63,7 +63,7 @@ It follows a structured approach for beginners to advanced topics.
 
 <tr>
 <td><b>08_StackandQueues</b></td>
-<td>225. Implement Stack using Queues <br> 232. Implement Queue using Stacks <br> 20. Valid Parentheses <br> 155. Min Stack <br> 1021. Remove Outermost Parentheses <br> 150. Evaluate Reverse Polish Notation
+<td>225. Implement Stack using Queues <br> 232. Implement Queue using Stacks <br> 20. Valid Parentheses <br> 155. Min Stack <br> 1021. Remove Outermost Parentheses <br> 150. Evaluate Reverse Polish Notation <br> 496. Next Greater Element I
  </td>
 </tr>
 </table>
