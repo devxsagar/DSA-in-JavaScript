@@ -66,4 +66,10 @@ It follows a structured approach for beginners to advanced topics.
 <td>225. Implement Stack using Queues <br> 232. Implement Queue using Stacks <br> 20. Valid Parentheses <br> 155. Min Stack <br> 1021. Remove Outermost Parentheses <br> 150. Evaluate Reverse Polish Notation <br> 496. Next Greater Element I <br> 739. Daily Temperatures <br> 503. Next Greater Element II <br> 994. Rotting Oranges
  </td> 
 </tr>
+
+<tr> 
+<td><b>09_Binary_Search_Algorithm</b></td>
+<td> 69. Sqrt(x) <br> 374. Guess Number Higher or Lower
+ </td>
+</tr>
 </table>
