@@ -4,7 +4,7 @@ var findPeakElement = function (n) {
 
   // Perform binary search until left and right converge
   while (l < r) {
-    // Calculate middle index to avoid overflow
+    // Calculate middle index 
     let mid = l + Math.floor((r - l) / 2);
 
     // If the middle element is less than its right neighbor,
