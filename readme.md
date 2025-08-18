@@ -70,7 +70,7 @@ It follows a structured approach for beginners to advanced topics.
 <tr> 
 <td><b>09_Binary_Search_Algorithm</b></td>
 <td> 69. Sqrt(x) <br> 374. Guess Number Higher or Lower <br> 33. Search in Rotated Sorted Array <br> 278. First Bad Version <br> 
-162. Find Peak Element <br> 153. Find Minimum in Rotated Sorted Array
+162. Find Peak Element <br> 153. Find Minimum in Rotated Sorted Array <br> 34. Find First and Last Position of Element in Sorted Array
  </td>
 </tr>
 </table>
