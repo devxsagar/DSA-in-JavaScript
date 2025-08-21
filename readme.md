@@ -73,4 +73,10 @@ It follows a structured approach for beginners to advanced topics.
 162. Find Peak Element <br> 153. Find Minimum in Rotated Sorted Array <br> 34. Find First and Last Position of Element in Sorted Array <br> 852. Peak Index in a Mountain Array <br> 540. Single Element in a Sorted Array <br> 658. Find K Closest Elements
  </td>
 </tr>
+
+<tr> 
+<td><b>10_Two_Pointers_&_Sliding_Window</b></td>
+<td> 1. Two Sum
+ </td>
+</tr>
 </table>
