@@ -76,7 +76,7 @@ It follows a structured approach for beginners to advanced topics.
 
 <tr> 
 <td><b>10_Two_Pointers_&_Sliding_Window</b></td>
-<td> 1. Two Sum
+<td> 1. Two Sum <br> 167. Two Sum II - Input Array Is Sorted <br> 392. Is Subsequence
  </td>
 </tr>
 </table>
