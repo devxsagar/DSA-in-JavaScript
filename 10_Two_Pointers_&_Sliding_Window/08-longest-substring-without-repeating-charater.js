@@ -1,6 +1,13 @@
 /**
  * PROBLEM: Find the length of the longest substring without repeating characters
  *
+ * APPROACH: Sliding Window (Two Pointers) with HashMap
+ *      Use two pointers (i, j) to maintain a sliding window
+ *      Use a HashMap to store the most recent index of each character
+ *      When we find a duplicate character, move the left pointer (i) to skip the previous occurrence
+ *      Keep track of the maximum window size encountered
+ * 
+ * 
  * @param {string} s
  * @return {number}
  */
@@ -31,8 +38,8 @@ var lengthOfLongestSubstring = function (s) {
 };
 
 /**
- * TIME COMPLEXITY: O(n) - single pass through the string
- * SPACE COMPLEXITY: O(1) - bounded by the size of the character set
+ * Time Complexity: O(n) - single pass through the string
+ * Space Complexity: O(1) - bounded by the size of the character set
  * - Since input consists of English letters, digits, symbols and spaces (ASCII charset)
  * - Maximum 128/256 characters can be stored in the map, which is constant space
  */
