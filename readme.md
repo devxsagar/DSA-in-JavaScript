@@ -76,7 +76,7 @@ It follows a structured approach for beginners to advanced topics.
 
 <tr> 
 <td><b>10_Two_Pointers_&_Sliding_Window</b></td>
-<td> 1. Two Sum <br> 167. Two Sum II - Input Array Is Sorted <br> 392. Is Subsequence <br> 28. Find the Index of the First Occurrence in a String <br> 15. 3Sum <br> 11. Container With Most Water <br> 42. Trapping Rain Water <br> 3. Longest Substring Without Repeating Characters <br> 424. Longest Repeating Character Replacement <br> 567. Permutation in String
+<td> 1. Two Sum <br> 167. Two Sum II - Input Array Is Sorted <br> 392. Is Subsequence <br> 28. Find the Index of the First Occurrence in a String <br> 15. 3Sum <br> 11. Container With Most Water <br> 42. Trapping Rain Water <br> 3. Longest Substring Without Repeating Characters <br> 424. Longest Repeating Character Replacement <br> 567. Permutation in String <br> 239. Sliding Window Maximum
 
  </td>
 </tr>

@@ -19,7 +19,7 @@ var checkInclusion = function (s1, s2) {
   // impossible if s1 is longer than s2
   if (s1.length > s2.length) return false;
 
-  let s1Freq = Array(26).fill(0); // Target frequency (s
+  let s1Freq = Array(26).fill(0); // Target frequency (s1)
   let windowFreq = Array(26).fill(0); // Current window frequency
 
   // Build frequency arrays for s1 and first window of s2

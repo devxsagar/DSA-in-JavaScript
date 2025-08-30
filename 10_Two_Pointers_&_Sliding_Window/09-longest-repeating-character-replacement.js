@@ -138,10 +138,11 @@ var characterReplacement = function (s, k) {
       // Try to expand window by moving right pointer
       j++;
 
-      // Add new character to frequency array
+      // Increment the count
       map[s.charCodeAt(j) - 65]++;
     } else {
       // Window is invalid - shrink it by moving left pointer
+      // Decrement count of left character
       map[s.charCodeAt(i) - 65]--;
       i++;
     }
