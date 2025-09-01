@@ -31,6 +31,12 @@ It follows a structured approach for beginners to advanced topics.
 <th >📝 Problems Solved</th>
 </tr>
 
+
+<tr>
+<td><b>00_My_Solutions</b></td>
+<td>2264. Largest 3-Same-Digit Number in String <br> 1752. Check if Array Is Sorted and Rotated <br> 189. Rotate Array </td>
+</tr>
+
 <tr>
 <td><b>01_Warm_Up</b></td>
 <td>7. Reverse Integer <br> 9. Palindrome Number</td>
