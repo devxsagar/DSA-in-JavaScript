@@ -34,7 +34,7 @@ It follows a structured approach for beginners to advanced topics.
 
 <tr>
 <td><b>00_My_Solutions</b></td>
-<td>2264. Largest 3-Same-Digit Number in String <br> 1752. Check if Array Is Sorted and Rotated <br> 189. Rotate Array <br> 75. Sort Colors </td>
+<td>2264. Largest 3-Same-Digit Number in String <br> 1752. Check if Array Is Sorted and Rotated <br> 189. Rotate Array <br> 75. Sort Colors <br> 169. Majority Element <br> 53. Maximum Subarray </td>
 </tr>
 
 <tr>
