@@ -31,7 +31,6 @@ It follows a structured approach for beginners to advanced topics.
 <th >📝 Problems Solved</th>
 </tr>
 
-
 <tr>
 <td><b>00_My_Solutions</b></td>
 <td>2264. Largest 3-Same-Digit Number in String <br> 1752. Check if Array Is Sorted and Rotated <br> 189. Rotate Array <br> 75. Sort Colors <br> 169. Majority Element <br> 53. Maximum Subarray </td>
@@ -85,5 +84,10 @@ It follows a structured approach for beginners to advanced topics.
 <td> 1. Two Sum <br> 167. Two Sum II - Input Array Is Sorted <br> 392. Is Subsequence <br> 28. Find the Index of the First Occurrence in a String <br> 15. 3Sum <br> 11. Container With Most Water <br> 42. Trapping Rain Water <br> 3. Longest Substring Without Repeating Characters <br> 424. Longest Repeating Character Replacement <br> 567. Permutation in String <br> 239. Sliding Window Maximum
 
  </td>
+</tr>
+
+<tr> 
+<td><b>11_Binary_Tree</b></td>
+<td> 144. Binary Tree Preorder Traversal <br> 94. Binary Tree Inorder Traversal <br> 145. Binary Tree Postorder Traversal </td>
 </tr>
 </table>
