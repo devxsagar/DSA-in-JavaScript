@@ -12,6 +12,7 @@
  * @return {number[]}
  */
 
+// Recursive Approach
 var preorderTraversal = function (root) {
   // Array to store the result of preorder traversal
   const ans = [];
@@ -22,7 +23,7 @@ var preorderTraversal = function (root) {
     ans.push(curr.val); // Visit current node -> store value in ans[]
 
     traversal(curr.left); // Recursively traverse the left subtree
-    traversal(curr.right);// Recursively traverse the right subtree
+    traversal(curr.right); // Recursively traverse the right subtree
   }
 
   traversal(root); // Start traversal from the root node
@@ -71,3 +72,23 @@ var preorderTraversal = function (root) {
 
         [1, 2, 4, 5, 6, 7, 9, 3, 8]
  */
+
+// Iterative Approach
+var preorderTraversal = function (root) {
+  // If the tree is empty, return an empty array
+  if (!root) return [];
+
+  const ans = []; // This will store the preorder traversal result
+  const stack = [root]; // Use a stack to keep track of nodes (start with root)
+
+  while (stack.length) {
+    let curr = stack.pop(); // Take out the top node from stack
+    ans.push(curr.val); // Visit the node
+
+    // Push right child first (so that left child is processed first)
+    curr.right && stack.push(curr.right);
+    curr.left && stack.push(curr.left);
+  }
+
+  return ans;
+};
