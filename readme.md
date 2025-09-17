@@ -88,6 +88,6 @@ It follows a structured approach for beginners to advanced topics.
 
 <tr> 
 <td><b>11_Binary_Tree</b></td>
-<td> 144. Binary Tree Preorder Traversal <br> 94. Binary Tree Inorder Traversal <br> 145. Binary Tree Postorder Traversal </td>
+<td> 144. Binary Tree Preorder Traversal <br> 94. Binary Tree Inorder Traversal <br> 145. Binary Tree Postorder Traversal <br> 102. Binary Tree Level Order Traversal <br> 104. Maximum Depth of Binary Tree </td> 
 </tr>
 </table>
