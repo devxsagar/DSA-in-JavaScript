@@ -88,6 +88,6 @@ It follows a structured approach for beginners to advanced topics.
 
 <tr> 
 <td><b>11_Binary_Tree</b></td>
-<td> 144. Binary Tree Preorder Traversal <br> 94. Binary Tree Inorder Traversal <br> 145. Binary Tree Postorder Traversal <br> 102. Binary Tree Level Order Traversal <br> 104. Maximum Depth of Binary Tree <br> 112. Path Sum <br> 101. Symmetric Tree <br> 226. Invert Binary Tree <br> 100. Same Tree <br> 110. Balanced Binary Tree <br> 543. Diameter of Binary Tree <br> 103. Binary Tree Zigzag Level Order Traversal <br> 572. Subtree of Another Tree <br> 199. Binary Tree Right Side View <br> 236. Lowest Common Ancestor of a Binary Tree <br> 1448. Count Good Nodes in Binary Tree </td> 
+<td> 144. Binary Tree Preorder Traversal <br> 94. Binary Tree Inorder Traversal <br> 145. Binary Tree Postorder Traversal <br> 102. Binary Tree Level Order Traversal <br> 104. Maximum Depth of Binary Tree <br> 112. Path Sum <br> 101. Symmetric Tree <br> 226. Invert Binary Tree <br> 100. Same Tree <br> 110. Balanced Binary Tree <br> 543. Diameter of Binary Tree <br> 103. Binary Tree Zigzag Level Order Traversal <br> 572. Subtree of Another Tree <br> 199. Binary Tree Right Side View <br> 236. Lowest Common Ancestor of a Binary Tree <br> 1448. Count Good Nodes in Binary Tree <br> 116. Populating Next Right Pointers in Each Node </td> 
 </tr>
 </table>
